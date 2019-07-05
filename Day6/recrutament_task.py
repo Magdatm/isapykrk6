@@ -1,7 +1,7 @@
 # The bed
-# def foo(value, my_list=[]):
-#     my_list.append(value)
-#     print(my_list)
+# def foo(value, words_database=[]):
+#     words_database.append(value)
+#     print(words_database)
 
 # The good!
 def foo(value, my_list = None):
